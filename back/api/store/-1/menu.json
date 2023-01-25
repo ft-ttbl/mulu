@@ -1,0 +1,17 @@
+{
+    "code": 200,
+    "msg": null,
+    "data": {
+        "store_data": {
+            "storeId": -1
+        },
+        "category_data": {
+            "first": [],
+            "second": []
+        },
+        "category_tab_data": [],
+        "menu_data": {
+            "waterfall_dish_list": []
+        }
+    }
+}
