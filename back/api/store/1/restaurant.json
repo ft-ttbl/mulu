@@ -1,0 +1,12 @@
+{
+    "code": 200,
+    "msg": null,
+    "data": {
+        "storeId": 1,
+        "storeName": "FIVE SAILS",
+        "storeDesc": "Five Sails has award winning cuisine crafted by a team of professionals at the forefront of Vancouver’s hospitality scene",
+        "coverImgFileName": "REST1_cover.jpg",
+        "logoImgFileName": "REST1_logo.jpg",
+        "imgFolderPath": "/back/img/store/1/store"
+    }
+}
